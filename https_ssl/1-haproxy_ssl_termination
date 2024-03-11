@@ -39,5 +39,5 @@ frontend www.Mkellia.tech
 backend web_servers
         mode http
         balance roundrobin
-       server 4818-web-01 18.234.219.109:80 check
-        server 4818-web-02 54.92.217.163:80 check
+       server 5956-web-01 34.229.12.129:80 check
+        server 5956-web-02 54.226.52.208:80 check
